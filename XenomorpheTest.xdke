@@ -3,6 +3,7 @@
     "projectSettingsVersion": "3.0.0",
     "currentBuildConfiguration": "Android",
     "projectFiles": {},
+<<<<<<< HEAD
     "projectDirectories": {},
     "currentService": {
       "service": "sandbox"
@@ -20,5 +21,14 @@
         "prefix": "tinyhippos-"
       }
     }
+=======
+    "projectDirectories": {}
+  },
+  "build-tab": {
+    "selectedTargets": []
+  },
+  "editorTab": {
+    "currentEditorMode": 0
+>>>>>>> 6e0d08bef7a424b8f0d07f653e32b1c54bc8b14d
   }
 }
