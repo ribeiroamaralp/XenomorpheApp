@@ -2034,6 +2034,9 @@ label:empty {
   .tailleBtn {
     height: 110px;
   }
+  .talllljj {
+    text-decoration-color: darkblue;
+  }
 }
 @media all {
   .image-gallery-size {
