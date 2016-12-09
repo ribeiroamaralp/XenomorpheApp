@@ -2,7 +2,11 @@
     "cordova-plugin-device": {
         "source": {
             "type": "local",
+<<<<<<< HEAD
             "path": "/Applications/Intel XDK.app/Contents/Resources/app.nw/components/server/cordova/cordova-plugins/cordova-plugin-device"
+=======
+            "path": "D:\\intelXDK\\xdk\\components\\server\\cordova\\cordova-plugins\\cordova-plugin-device"
+>>>>>>> 6e0d08bef7a424b8f0d07f653e32b1c54bc8b14d
         },
         "is_top_level": true,
         "variables": {}
@@ -10,7 +14,11 @@
     "cordova-plugin-splashscreen": {
         "source": {
             "type": "local",
+<<<<<<< HEAD
             "path": "/Applications/Intel XDK.app/Contents/Resources/app.nw/components/server/cordova/cordova-plugins/cordova-plugin-splashscreen"
+=======
+            "path": "D:\\intelXDK\\xdk\\components\\server\\cordova\\cordova-plugins\\cordova-plugin-splashscreen"
+>>>>>>> 6e0d08bef7a424b8f0d07f653e32b1c54bc8b14d
         },
         "is_top_level": true,
         "variables": {}
@@ -18,7 +26,11 @@
     "cordova-plugin-statusbar": {
         "source": {
             "type": "local",
+<<<<<<< HEAD
             "path": "/Applications/Intel XDK.app/Contents/Resources/app.nw/components/server/cordova/cordova-plugins/cordova-plugin-statusbar"
+=======
+            "path": "D:\\intelXDK\\xdk\\components\\server\\cordova\\cordova-plugins\\cordova-plugin-statusbar"
+>>>>>>> 6e0d08bef7a424b8f0d07f653e32b1c54bc8b14d
         },
         "is_top_level": true,
         "variables": {}

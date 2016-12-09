@@ -2071,3 +2071,9 @@ label:empty {
 @media all {
   
 }
+.allow-badge > .badge.glyphicon {
+  display: inline-block;
+}
+.list-group .d-margins {
+  margin: 0;
+}
